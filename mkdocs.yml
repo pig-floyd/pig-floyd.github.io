@@ -1,0 +1,64 @@
+#[INFO]
+site_name: Renhe's Personal WebSite
+site_author: Renhe Chen
+#[UI]
+theme:
+  name: material
+  palette:
+    #primary: blue grey
+
+    - scheme: default # 日间模式
+      primary: grey # 上方的
+      accent: cyan # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: Switch to NIGHT MODE # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: black 
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to DAY MODE
+#[Navigation]
+nav:
+  - Home: index.md
+  - CV: CV/cv.md
+  - Projects: 
+    - High performance ADC: Projects/ADC/adc.md
+    - Dynamic bias optimization for MRAM: Projects/MRAM/dbo.md
+    - Cryogenic circuit design and testing: Projects/CRYO/cryo.md
+  - Hobbies:
+    - All About Musics: Hobbies/Guitar/guitar.md
+    - Model Builds: Hobbies/PM/model.md
+    - Bicycle Routes: Hobbies/Bicycle/bikelog.md
+  - Contact: Contact/contact.md
+
+copyright: Copyright &copy; 2023 Renhe Chen, All rights reserved
+
+extra:
+  generator: false  #删除页脚显示“使用 MkDocs 材料制造”
+
+markdown_extensions:
+  - abbr
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - pymdownx.arithmatex:  # latex支持
+      generic: true
+  - toc:
+      permalink: true # 固定标题位置为当前位置
+  - pymdownx.highlight: # 代码块高亮
+      anchor_linenums: true
+      # linenums: true # 显示行号
+      # auto_title: true # 显示编程语言名称
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences # 代码块高亮插件
+  - meta # 支持Markdown文件上方自定义标题标签等
+  
