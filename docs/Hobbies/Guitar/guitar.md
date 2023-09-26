@@ -1,3 +1,3 @@
-My Fender Stratocaster
+My gear
 
 ![](./img/strat1.jpg)

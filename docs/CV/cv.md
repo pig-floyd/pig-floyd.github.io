@@ -1,4 +1,4 @@
-# Renhe Chen (陳 人和)
+# Renhe Chen (陈人和)
 
 A pdf verison can be downloaded [here](./cv_academic.pdf)
 
@@ -25,11 +25,8 @@ A pdf verison can be downloaded [here](./cv_academic.pdf)
 ### Programming
 Matlab, C/C++, Python, Rust, R
 
-### Instrument
-oscilloscope, network analyzer, logic analyzer, signal source analyzer, cryogenic testing system
-
 ### Language
-Chinese (Native), English (Fluent, TOEFL iBT: 99), Japanese (Basic)
+Chinese (Native), English, Japanese
 
 ## Work Experience
 * (Jun. 2022 – Jan.2023) Internship as Analog IC Design Engineer, United Imaging, Shanghai 
