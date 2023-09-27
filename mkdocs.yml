@@ -7,8 +7,8 @@ theme:
   palette:
     #primary: blue grey
     - scheme: default # 日间模式
-      primary: grey # 上方的
-      accent: cyan # 链接等可交互元件的高亮色
+      primary: custom # 上方的
+      accent: custom # 链接等可交互元件的高亮色
       toggle:
         icon: material/lightbulb # 图标
         name: Turn off the light # 鼠标悬浮提示
@@ -24,6 +24,8 @@ theme:
     - navigation.path
     - toc.integrate
     - navigation.top
+  font:
+    text: Ubuntu
 
 
 #[Navigation]

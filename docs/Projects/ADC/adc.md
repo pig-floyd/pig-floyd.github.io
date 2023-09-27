@@ -1,7 +1,3 @@
-![](./img/layout.PNG)
-
-# 12-bit SAR ADC in 28-nm CMOS
-
 Apr. 2022 - Present, in ShanghaiTech University
 
 ## Overview
