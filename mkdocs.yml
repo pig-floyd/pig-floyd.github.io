@@ -26,6 +26,9 @@ theme:
     - navigation.top
   font:
     text: Ubuntu
+  icon:
+    logo: simple/prisma
+  favicon: img/favicon.png
 
 
 #[Navigation]
