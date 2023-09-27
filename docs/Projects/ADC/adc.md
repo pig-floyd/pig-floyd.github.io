@@ -37,7 +37,7 @@ comparison results once it's triggered by the first stage. Noise is dominated by
 
 The gain of the pre-amplifier can be characterized as
 $$
-A = \frac{v_{od}}{v_{id}} = \frac{T_{amp}I_d}{C_{int}v_{id}}=\frac{V_{t,lat}C_{int}}{G_mV_{OD}}\frac{g_m v_{id}}{C_{int}v_{id}} = \frac{g_mV_{t,lat}}{G_mV_{OD}}
+A = \frac{v_{od}}{v_{id}} = \frac{T_{amp}I_d}{C_{int}v_{id}} = \frac{g_mV_{t,lat}}{G_mV_{OD}}
 $$
 
 where $T_{amp}$ is the amplification time, $C_{int}$ the total internal capacitance at the output of pre-amplifier, $V_{OD}$ the overdrive voltage of the input pair, $V_{t,lat}$ the threshold voltage of the latch. $g_m$ and $G_m$ are the differential and common mode trans-conductance of M1 and M2. 
