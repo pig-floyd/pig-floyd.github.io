@@ -94,4 +94,8 @@ I designed a dedicated PCB for testing. The chip is bonded at the center of PCB.
 
 ## See also
 
-Publications related to this project can be accessed here.
+Publications related to this project\:
+
+* R.Chen, A. Lee, H. Xu, Y. Hu, X, Kou." A 100 MS/s 5.3 fJ/conversion-step Asynchronous SAR ADC with Gain Boosting
+Comparator." IEEE International Symposium on Circuits and Systems (ISCAS), 2024 (under review).
+

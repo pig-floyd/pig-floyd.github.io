@@ -27,7 +27,7 @@ Probably the best album to be played while driving along the west coast in your 
 
 The first album from the best Chinese rock band Omnipotent Youth Society. After years of dedication,
 they had presented the golden standard of Chinese rock music. The trumpet, the drumbeat and the guitar
-riffs are well composed and impressive. Personally speaking, the best piece in the album is _Qing Huangdao_.
+riffs are well composed and perfectly organized. Personally speaking, the best piece of the album is _Qinhuangdao_.
 
 ## About My Gear
 
