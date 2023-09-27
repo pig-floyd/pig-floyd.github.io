@@ -1,6 +1,6 @@
 :octicons-mail-16: chenrh@shanghaitech.edu.cn
 
-:mobile_phone: +86 173 1713 8562
+:octicons-device-mobile-16: +86 173 1713 8562
 
 393 Rd. Middle Huaxia
 
