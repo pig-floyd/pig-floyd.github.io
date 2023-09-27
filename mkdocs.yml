@@ -10,14 +10,22 @@ theme:
       primary: grey # 上方的
       accent: cyan # 链接等可交互元件的高亮色
       toggle:
-        icon: material/weather-night # 图标
-        name: Switch to NIGHT MODE # 鼠标悬浮提示
+        icon: material/lightbulb # 图标
+        name: Turn off the light # 鼠标悬浮提示
     - scheme: slate # 夜间模式
       primary: black 
       accent: cyan
       toggle:
-        icon: material/weather-sunny
-        name: Switch to DAY MODE
+        icon: material/lightbulb-outline
+        name: Turn on the light
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.integrate
+    - navigation.top
+
+
 #[Navigation]
 nav:
   - Home: index.md
@@ -60,4 +68,11 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.superfences # 代码块高亮插件
   - meta # 支持Markdown文件上方自定义标题标签等
-  
+  - mdx_math
+
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+extra_css:
+  - stylesheets/extra.css
+
