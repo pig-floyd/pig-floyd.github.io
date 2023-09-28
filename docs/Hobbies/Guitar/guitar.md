@@ -17,7 +17,7 @@ journey across the universe.
 ![](./img/BigWaveTS.jpg){: style="height:auto;width:300px" data-gallery="alb"}
 
 A great hit from Tatsuro Yamashita, the representative songwriter who established a new genre
-named City Pop. The album merges American surf rock with Japan's own music style, which 
+named [City Pop](https://en.wikipedia.org/wiki/City_pop). The album merges American surf rock with Japan's own music style, which 
 creates a unique listening experience. It sounds like a cool breeze in a summer afternoon.
 Probably the best album to be played while driving along the west coast in your sportscar.
 
