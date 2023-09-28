@@ -2,7 +2,7 @@
 
 ### _The Dark Side of The Moon_, by Pink Floyd
 
-![](./img/The_Dark_Side_of_the_Moon.jpg){: style="height:auto;width:300px"}
+![](./img/The_Dark_Side_of_the_Moon.jpg){: style="height:auto;width:300px" data-gallery="alb"}
 
 A masterpiece presented by the famous progressive rock band Pink Floyd in 1973, which talks about
 time, death, money, mental instability and all the things that concerns us. It is the
@@ -14,7 +14,7 @@ journey across the universe.
 
 ### _Big Wave_, by Tatsuro Yamashita
 
-![](./img/BigWaveTS.jpg){: style="height:auto;width:300px"}
+![](./img/BigWaveTS.jpg){: style="height:auto;width:300px" data-gallery="alb"}
 
 A great hit from Tatsuro Yamashita, the representative songwriter who established a new genre
 named City Pop. The album merges American surf rock with Japan's own music style, which 
@@ -23,7 +23,7 @@ Probably the best album to be played while driving along the west coast in your 
 
 ### _Omnipotent Youth Society_, by Omnipotent Youth Society
 
-![](./img/S4614409.jpg){: style="height:auto;width:300px"}
+![](./img/S4614409.jpg){: style="height:auto;width:300px" data-gallery="alb"}
 
 The first album from the best Chinese rock band Omnipotent Youth Society. After years of dedication,
 they had presented the golden standard of Chinese rock music. The trumpet, the drumbeat and the guitar
@@ -35,4 +35,4 @@ This is a custom built Fender Stratocaster (or Partscaster to be precise) tribut
 It has a Fender custom shop 1969 body and a Musikraft made 1963 spec rosewood neck. The body is refinished in
 california blue.
 
-![](./img/strat1.jpg)
+![](./img/strat1.jpg){ data-gallery="gear"}
