@@ -15,5 +15,5 @@ In this project, I proposed a SAR ADC features a gain-boosting dynamic comparato
 
 Publications related to this project\:
 
-*  R. Chen A. Lee, Y. Hu, H. Xu,  X, Kou." A 12-bit 75 MS/s Asynchronous SAR ADC with Gain-Boosting Dynamic Comparator." IEEE International Symposium on Circuits and Systems (ISCAS), 2024 (under review).
+*  R. Chen A. Lee, Y. Hu, H. Xu,  X, Kou." A 12-bit 75 MS/s Asynchronous SAR ADC with Gain-Boosting Dynamic Comparator." IEEE International Symposium on Circuits and Systems (ISCAS), 2024 (under review, [preprint](./doc/draft_ADC_Renhe_20231031.pdf)).
 
