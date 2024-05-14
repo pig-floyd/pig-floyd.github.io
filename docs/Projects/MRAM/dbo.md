@@ -16,4 +16,4 @@ In this project, I proposed a dynamic bias optimization (DBO) circuit to enable 
 
 Publications related to this project\:
 
-*  R. Chen, A. Lee, Z. Wang, D. Wu, X. Kou. "A Read Margin Enhancement Circuit with Dynamic Bias Optimization for MRAM." IEEE Transactions on Circuits and Systems II - Express Briefs (under review, [preprint](https://arxiv.org/pdf/2309.09797.pdf)).
+*  R. Chen, A. Lee, Z. Wang, D. Wu, X. Kou. "A Read Margin Enhancement Circuit with Dynamic Bias Optimization for MRAM." IEEE Transactions on Circuits and Systems II - Express Briefs ([IEEE Xplore](https://ieeexplore.ieee.org/document/10440550)).

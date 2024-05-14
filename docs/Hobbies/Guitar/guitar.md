@@ -29,10 +29,6 @@ The first album from the best Chinese rock band Omnipotent Youth Society. After 
 they had presented the golden standard of Chinese rock music. The trumpet, the drumbeat and the guitar
 riffs are well composed and perfectly organized. Personally speaking, the best piece of the album is _Qinhuangdao_.
 
-## About My Gear
-
-This is a custom built Fender Stratocaster (or Partscaster to be precise) tributes to David Gilmour's black strat.
-It has a Fender custom shop 1969 body and a Musikraft made 1963 spec rosewood neck. The body is refinished in
-california blue.
+## My Gear
 
 ![](./img/strat1.jpg){ data-gallery="gear"}

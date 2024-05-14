@@ -33,7 +33,7 @@ nav:
     - Travel Logs: Hobbies/Bicycle/bikelog.md
   - Contact: Contact/contact.md
 
-copyright: Copyright &copy; 2023 Renhe Chen, All rights reserved
+copyright: Copyright &copy; 2024 Renhe Chen, All rights reserved
 
 plugins:
   - glightbox:
