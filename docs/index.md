@@ -29,7 +29,7 @@ For more information, please refer to my [CV](./CV/cv.md) page.
 ## Links
 
 :simple-googlescholar: [Google Scholar](https://scholar.google.com/citations?user=RsjCI30AAAAJ&hl=zh-TW)
-:simple-linkedin: [Linkedin](linkedin.com/in/renhe-chen-5767b22a3)
+:simple-linkedin: [Linkedin](https://linkedin.com/in/renhe-chen)
 :simple-github: [Github](https://github.com/pig-floyd/)
 :simple-bilibili: [Bilibili](https://space.bilibili.com/135564562)
 :simple-reddit: [Reddit](https://www.reddit.com/user/PigFloyd99)
